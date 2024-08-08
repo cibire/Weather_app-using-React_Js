@@ -74,7 +74,7 @@ function App() {
 	return (
 		<div className="App">
 			<h1 className="app-name">
-         Weather App
+         Weather App using React
 			</h1>
 			<div className="search-bar">
 				<input
